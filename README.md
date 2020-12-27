@@ -5,13 +5,13 @@ In first-person shooters (FPS), such as Halo, Call of Duty, or Counterstrike, th
 
 Starting in December 2020, I have used AimLab for nearly 30 minutes each day to see what my improvements could look like over 30 days. At the time of writing this introduction, I have played for 20 days. To give a sense of what my improvement has looked like, AimLab gives a rating of 0 - 100 for each of the six training categories. The higher the rating, the better. Here are my ratings from when I first started to Day 20.
 
-Flicking: 28 -> 40 (+12)
-Tracking: 21 -> 40 (+19)
-Speed: 34 -> 46 (+12)
-Precision: 38 -> 45 (+7)
-Perception: 83 -> 87 (+4)
-Cognition: 30 -> 48 (+18)
-Overall: 234 -> 306 (+72)
+- Flicking: 28 -> 40 (+12)  
+- Tracking: 21 -> 40 (+19)  
+- Speed: 34 -> 46 (+12)  
+- Precision: 38 -> 45 (+7)  
+- Perception: 83 -> 87 (+4)  
+- Cognition: 30 -> 48 (+18)  
+- Overall: 234 -> 306 (+72)  
 
 Despite my limited training, my skillset seems to improve. I want to understand if I can show my rate of improvement on a more quantifiable level, and predict what future improvements could look like at my current progression. Luckily, AimLab makes your personal training data available. Over the next days, I will work to publish my time-series training data to visualize and predict my future progress. 
 
