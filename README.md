@@ -13,7 +13,7 @@ My main three goals of this project is to:
 3. Correlation between factors that make up scoring.   
 
 ## Project Link
-1.  
+1. [Forecasting Speed Performance in AimLab Using SARIMA Time-Series Analysis](https://github.com/inm2/AimLab-Data-Tracking/blob/main/AimLab%20-%20Forecasting%20Speed%20with%20SARIMA%20Model.ipynb) 
 
 ## Resources:
 1. [Susan Li's 'An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
