@@ -17,4 +17,4 @@ My main three goals of this project is to:
 
 ## Resources:
 1. [Susan Li's 'An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
-2. [Speed data used for this project]()
+2. [Speed data used for this project](https://github.com/inm2/AimLab-Data-Tracking/blob/main/Speed%20Filtering.csv)
