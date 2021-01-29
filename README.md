@@ -1,7 +1,7 @@
 # AimLab-Data-Tracking
 This repository is dedicated towards using time-series analysis to track progress in the FPS training-tool, AimLab. 
 
-In first-person shooters (FPS), such as Halo, Call of Duty, or Counterstrike, the ability to take out your opponent is critical towards winning. This requires a user to be efficient at aiming. While aiming is simple to explain - just point your cursor at your opponent and click - the mechanics behind aiming can be broken down into smaller-components. [AimLab](https://aimlab.gg/), developed by Statespace Studios, aims to help players train their skills on a mechancial level.
+In first-person shooters (FPS), such as Halo, Call of Duty, or Counterstrike, the ability to take out your opponent is critical towards winning. This requires a user to be efficient at aiming. While aiming is simple to explain - just point your cursor at your opponent and click - the mechanics behind aiming can be broken down into smaller-components. [AimLab](https://aimlab.gg/), developed by Statespace Studios, aims to help players train their skills on mechancial and situational levels.
 
 Starting in December 2020, I have used AimLab for nearly 30 minutes each day to see what my improvements could look like over 30 days. At the time of writing this introduction, I have played for 20 days. I have noticed my averages in each of the six categories (Flicking, Speed, Precision, Cognition, Perception, Tracking), each one dedicated towards reflecting a particular skillset, improve.
 
