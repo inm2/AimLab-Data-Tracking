@@ -12,6 +12,10 @@ My main three goals of this project is to:
 2. Future forecasting to predict outcomes,  
 3. Correlation between factors that make up scoring.   
 
+## Primary Results
+![Forecasting](https://github.com/inm2/AimLab-Data-Tracking/blob/main/Forecast.png)
+![Correlation Matrix]()
+
 ## Project Link
 1. [Forecasting Speed Performance in AimLab Using SARIMA Time-Series Analysis](https://github.com/inm2/AimLab-Data-Tracking/blob/main/AimLab%20-%20Forecasting%20Speed%20with%20SARIMA%20Model.ipynb) 
 
